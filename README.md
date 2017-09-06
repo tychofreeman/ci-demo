@@ -1,8 +1,8 @@
-#Install node.js
+## Install node.js
 https://www.sitepoint.com/beginners-guide-node-package-manager/
 
-#Install dependencies
+## Install dependencies
 npm install
 
-#Run tests
+## Run tests
 npm test
