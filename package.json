@@ -1,0 +1,23 @@
+{
+  "author": "Greg Orton <gorton@pillartechnology.com>; Nate Gordon <ngordon@pillartechnology.com>",
+  "name": "ci-demo",
+  "description": "A node.js project for continuous integration learning",
+  "version": "0.0.1",
+  "main": "./lib/example.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ortongreg/ci-demo"
+  },
+  "scripts": {
+    "test": "node spec/spec_runner.js"
+  },
+  "engines": {
+    "node": ">= 0.6",
+    "npm": ">= 0.6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "latest"
+  }
+}
+
